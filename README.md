@@ -1,2 +1,2 @@
 # git-edureka
-git sample project 
+this is just a git practice sample project 
